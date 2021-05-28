@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_mm8h_d}
 \alias{o3_max_mm8h_d}
-\title{Tibble con i dati di o3_max_mm8h_d per 3 stazioni della regione VALLEAOSTA}
+\title{Tibble con i dati di o3_max_mm8h_d per 4 stazioni della regione VALLEAOSTA}
 \format{
-Un tibble con 8 colonne e 7778 osservazioni
+Un tibble con 8 colonne e 10958 osservazioni
 }
 \usage{
 o3_max_mm8h_d
 }
 \description{
-Tibble con i dati di o3_max_mm8h_d per 3 stazioni della regione VALLEAOSTA
+Tibble con i dati di o3_max_mm8h_d per 4 stazioni della regione VALLEAOSTA
 }
 \keyword{datasets}

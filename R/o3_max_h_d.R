@@ -1,6 +1,6 @@
-#' Tibble con i dati di o3_max_h_d per 3 stazioni della regione VALLEAOSTA
+#' Tibble con i dati di o3_max_h_d per 4 stazioni della regione VALLEAOSTA
 #'
-#' @format Un tibble con 8 colonne e 7778 osservazioni
+#' @format Un tibble con 8 colonne e 10958 osservazioni
 #'
 #' @usage
 #' o3_max_h_d
